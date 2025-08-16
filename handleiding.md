@@ -68,7 +68,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - SD-kaart formatteren
 - FOH uitgang (pre-fader) → H1 via XLR
 - **Check netspanning actief**
-- Check batterijen.
+- Check batterijen
 - Input LINE, 32-bit float, 48kHz
 - Rode knop → HOLD
 - Na afloop: HOLD uit → stop → uit
@@ -86,7 +86,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - SD-kaart formatteren
 - DJ REC OUT → H4 Pro via XLR
 - **Check netspanning actief**
-- Check batterijen.
+- Check batterijen
 - Mode: 4CH, 48kHz/24-bit
 - Rode lampjes checken → niet laten clippen
 - Rode knop → HOLD
