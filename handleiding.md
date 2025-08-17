@@ -15,7 +15,7 @@ Er zijn twee varianten opgenomen: één met de H4 Essential (32-bit float) en é
 
 ---
 
-## Hoofdstuk 1 – Setup met H1 (32-bit float) + H4 Essential (32-bit float)
+## Deel 1 – Setup met H1 (32-bit float) + H4 Essential (32-bit float)
 
 ### ZOOM H1 (FOH)
 1. Formatteer de SD-kaart in de H1 (Menu → SD → Format).
@@ -41,7 +41,7 @@ Er zijn twee varianten opgenomen: één met de H4 Essential (32-bit float) en é
 
 ---
 
-## Hoofdstuk 2 – Setup met H1 (32-bit float) + H4 Pro (24-bit, geen float)
+## Deel 2 – Setup met H1 (32-bit float) + H4 Pro (24-bit, geen float)
 
 ### ZOOM H1 (FOH)
 Zelfde procedure als bij Hoofdstuk 1.
