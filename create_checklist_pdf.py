@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-mk_checklist_pdf.py
+create_checklist_pdf.py
 
 Gebruik:
-  python mk_checklist_pdf.py /pad/naar/handleiding.md [/pad/naar/output.pdf]
+  python create_checklist_pdf.py handleiding.md [output.pdf]
 
 Leest een Markdown-bestand, zoekt de sectie 'Ultrakorte Checklist' en zet
 de subsections (###) met hun bullets om naar een PDF met standaard ronde bullets.
@@ -99,13 +99,13 @@ def build_pdf(sections, output_path: Path):
 
 def main():
     if len(sys.argv) < 2:
-        print("Gebruik: python mk_checklist_pdf.py /pad/naar/handleiding.md [output.pdf]")
+        print("Gebruik: python create_checklist_pdf.py handleiding.md [output.pdf]")
         sys.exit(1)
     md_path = Path(sys.argv[1])
     if not md_path.exists():
         print(f"Bestand niet gevonden: {md_path}")
         sys.exit(1)
-    output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else md_path.with_suffix(".checklist.pdf")
+    output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else "checklist.pdf"
 
     md_text = md_path.read_text(encoding="utf-8")
     sections = parse_checklist(md_text)
