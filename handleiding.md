@@ -77,7 +77,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - SD-kaart formatteren
 - DJ REC OUT → H4 Essential via XLR
 - **Check netspanning actief**
-- Check batterijen.
+- Check batterijen
 - 32-bit float, 48kHz
 - Rode knop → HOLD
 - Na afloop: HOLD uit → STOP → uit
