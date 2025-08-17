@@ -54,7 +54,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 4. **Check dat de recorder op netspanning draait (niet enkel batterijen).**
 5. Zet op **4CH mode**.
 6. Stel in op **48kHz / 24-bit**.
-7. Controleer de **rode clip-lampjes** (niet laten clippen).
+7. Controleer de **rode clip-lampjes** (niet laten knipperen).
 8. Rode knop (arm → opname).
 9. Zet op HOLD.
 10. Plaats veilig, mics vrij.
