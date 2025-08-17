@@ -7,7 +7,9 @@ Daarnaast bevat de repository een script waarmee automatisch een **printbare PDF
 - `handleiding.md` – de volledige handleiding inclusief setup-instructies en een ultrakorte checklist
 - `create_checklist_pdf.py` – Python script dat de checklist uit `handleiding.md` leest en omzet naar een PDF
 
-## Gebruik
+## Genereren Checklist
+
+Het is mogelijk om op basis van `handleiding.md` een checklist-PDF te genereren. Dit is handig om te doen na aanpassingen.
 
 ### Voorwaarden
 - Python 3
