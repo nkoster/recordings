@@ -1,4 +1,4 @@
-# Audio Setup Handleiding & Checklist Generator
+# Recorders Setup Handleiding & Checklist Generator
 
 Dit project bevat een handleiding voor het opnemen van audio tijdens evenementen met behulp van de **ZOOM H1** en **ZOOM H4 (Essential of Pro)** recorders.  
 Daarnaast bevat de repository een script waarmee automatisch een **printbare PDF-checklist** kan worden gegenereerd uit de handleiding.
