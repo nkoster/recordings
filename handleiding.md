@@ -34,17 +34,18 @@ Er zijn twee varianten opgenomen: één met de H4 Essential (32-bit float) en é
 2. Sluit **XLR van DJ REC OUT → H4 Essential**.
 4. **Check dat de recorder op netspanning draait (niet enkel batterijen).**
 5. Zet recorder aan → controleer dat **32-bit float** actief is, 48kHz.
-6. Rode knop (arm → opname).
-7. Zet op HOLD.
-8. Plaats veilig, mics vrij (windkap bij outdoor).
-9. Na afloop: HOLD uit → STOP → uit.
+6. Controleer signaal.
+7. Rode knop (arm → opname).
+8. Zet op HOLD.
+9. Plaats veilig, mics vrij (windkap bij outdoor).
+10. Na afloop: HOLD uit → STOP → uit.
 
 ---
 
 ## Deel 2 – Setup met H1 (32-bit float) + H4 Pro (24-bit, geen float)
 
 ### ZOOM H1 (FOH)
-Zelfde procedure als bij Hoofdstuk 1.
+Zelfde procedure als bij Deel 1.
 - Altijd **check op netspanning**.
 - Opname in **32-bit float, 48kHz**.
 
@@ -54,11 +55,12 @@ Zelfde procedure als bij Hoofdstuk 1.
 4. **Check dat de recorder op netspanning draait (niet enkel batterijen).**
 5. Zet op **4CH mode**.
 6. Stel in op **48kHz / 24-bit**.
-7. Controleer de **rode clip-lampjes** (niet laten knipperen).
-8. Rode knop (arm → opname).
-9. Zet op HOLD.
-10. Plaats veilig, mics vrij.
-11. Na afloop: HOLD uit → STOP → uit.
+7. Controleer signaal.
+8. Controleer de **rode clip-lampjes** (niet laten knipperen).
+9. Rode knop (arm → opname).
+10. Zet op HOLD.
+11. Plaats veilig, mics vrij.
+12. Na afloop: HOLD uit → STOP → uit.
 
 ---
 
@@ -70,6 +72,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - **Check netspanning actief**
 - Check batterijen
 - Input LINE, 32-bit float, 48kHz
+- Check signaal
 - Rode knop → HOLD
 - Na afloop: HOLD uit → stop → uit
 
@@ -79,6 +82,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - **Check netspanning actief**
 - Check batterijen
 - 32-bit float, 48kHz
+- Check signaal
 - Rode knop → HOLD
 - Na afloop: HOLD uit → STOP → uit
 
@@ -88,6 +92,7 @@ Zelfde procedure als bij Hoofdstuk 1.
 - **Check netspanning actief**
 - Check batterijen
 - Mode: 4CH, 48kHz/24-bit
+- Check signaal
 - Rode lampjes checken → niet laten clippen
 - Rode knop → HOLD
 - Na afloop: HOLD uit → STOP → uit
