@@ -38,4 +38,4 @@ python create_checklist_pdf.py handleiding.md mijn_checklist.pdf
 De gegenereerde PDF bevat de sectie **Ultrakorte Checklist** uit de handleiding, overzichtelijk met ronde bullets per recorder.
 
 ## Licentie
-Dit project is copyright (c) 2025 Patterns Studio.
+Dit project is copyright (c) 2025 Patterns Studio. Verspreiding is niet toegestaan zonder toestemming.
