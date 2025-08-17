@@ -28,7 +28,7 @@ Voer het script uit met het pad naar de handleiding als argument:
 python create_checklist_pdf.py handleiding.md
 ```
 
-De output is standaard een bestand `handleiding.checklist.pdf` in dezelfde map.  
+De output is standaard een bestand `checklist.pdf` in dezelfde map.
 Je kunt ook een eigen bestandsnaam meegeven:
 
 ```bash
@@ -39,4 +39,4 @@ python create_checklist_pdf.py handleiding.md mijn_checklist.pdf
 De gegenereerde PDF bevat de sectie **Ultrakorte Checklist** uit de handleiding per recorder.
 
 ## Licentie
-Dit project is copyright (c) 2025 Patterns Studio. Verspreiding is niet toegestaan zonder toestemming.
+Dit project is copyright ©2025 Patterns Studio. Verspreiding is niet toegestaan zonder toestemming.
